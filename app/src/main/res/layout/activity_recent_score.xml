@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:id="@+id/recent_score_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recent Score"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="#cc1234"
+        android:fontFamily="@font/akaya_telivigala"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/recent_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:textSize="26sp"
+        android:fontFamily="@font/akaya_telivigala"
+        android:textColor="@color/black"
+        android:layout_below="@id/recent_score_title"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

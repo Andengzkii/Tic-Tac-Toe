@@ -1,0 +1,19 @@
+
+Ž
+java:S1659"KDeclare "playerTwoScore" and all following declarations on a separate line.(·ÿ¡å8ÿ„ã™†2J$6998eca7-c567-4c6a-9809-ce54ea9dbc4e
+‰
+java:S1659"FDeclare "playagain" and all following declarations on a separate line.(ë¹á•8€…ã™†2J$172c653d-65d8-4439-8ece-af6c2ec1ab88
+y
+java:S1659"1Declare "playerTwoScoreCount" on a separate line.(ÐŽ§Ëýÿÿÿÿ8€…ã™†2J$bf61918c-07f8-49c4-a290-5b4843816264
+›
+java:S1450"XRemove the "playagain" field and declare it as a local variable in the relevant methods.(ë¹á•8‚…ã™†2J$a02a9683-1526-4422-9529-7d60ccbab86e
+—
+java:S1450"TRemove the "reset" field and declare it as a local variable in the relevant methods.(ë¹á•8ƒ…ã™†2J$36afcccf-1c68-4b79-a990-bedaeeb9355a
+¡
+java:S1450"^Remove the "viewRecentScore" field and declare it as a local variable in the relevant methods.(ë¹á•8„…ã™†2J$b96ea32e-96de-458f-aa34-f945208e3494
+”
+java:S1871\"LThis branch's code block is the same as the block for the branch on line 90.(®ÊÅøýÿÿÿÿ8”ÐÞ™†2J$4ac3a188-e478-49ca-8805-5a98b9bda8a6
+ˆ
+java:S1117ˆ"DRename "winningPositions" which hides the field declared at line 21.(ÂÉ™ˆ8™ÐÞ™†2J$91835e53-3fa9-4a33-bf95-02c361b17973
+v
+java:S1068"3Remove this unused "viewLeaderboard" private field.(ë¹á•8Úš™š†2J$5e479143-a105-44d0-982f-d231551beaa0
